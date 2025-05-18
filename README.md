@@ -1,2 +1,1 @@
-# Movie_recommendation
-This project is a machine learning-based movie recommendation system that suggests movies based on user preferences. It uses content-based filtering and/or collaborative filtering techniques to predict and recommend movies that users are likely to enjoy.
+The project began with a raw dataset containing thousands of movie records along with attributes such as title, release year, genre, popularity, vote count, and average rating. The data was thoroughly cleaned and preprocessed to handle missing values, normalize formats, and remove inconsistencies. Exploratory data analysis was performed to uncover key insights and trends over the years.
