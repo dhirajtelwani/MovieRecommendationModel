@@ -93,5 +93,5 @@ My Hero Academia: World Heroes' Mission (Rating: 7.3) : Animation
 ## Author
 
 **Dhiraj Telwani**  
-  (mailto:dhirajtelwan@gmail.com) |
+  [dhirajtelwan@gmail.com](mailto:dhirajtelwan@gmail.com) |
   [LinkedIn](https://www.linkedin.com/in/dhiraj-telwani/) | [GitHub](https://github.com/dhirajtelwani)
