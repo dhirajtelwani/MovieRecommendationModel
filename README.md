@@ -79,7 +79,6 @@ My Hero Academia: World Heroes' Mission (Rating: 7.3) : Animation
 2. Install dependencies:
     ```
     pip install pandas matplotlib seaborn scikit-learn
-    '''
 ---
 
 ## To-Do / Enhancements
